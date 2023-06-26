@@ -1,5 +1,5 @@
 # Catan Statistics Tracker
-Where you lucky or not? Use the following program to track a couple of metrics while playing a game, such as throws and time per round. Primarily used to track the outcome of the throws and then compare it to their theoretical values.
+Were you lucky or not? Use the following program to track a couple of metrics while playing a game, such as throws and time per round. Primarily used to track the outcome of the throws and then compare it to their theoretical values.
 
 ## Game
 Represents a game of Catan. Manages players, records throws, calculates statistics, and displays results.
